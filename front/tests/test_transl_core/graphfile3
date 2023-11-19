@@ -1,0 +1,44 @@
+1
+6
+S S S
+S A R
+R S B
+S 0
+A a
+B b
+
+30 33
+Node0x17b68c0 Node0x17b7020 Node0x17b7180 Node0x17b7240 Node0x17b7290 Node0x17b7350 Node0x17b77f0 Node0x17b7960 Node0x17b79b0 Node0x17b7b60 Node0x17b7da0 Node0x17b8120 Node0x17b9040_1 Node0x17b9100_1 Node0x17b91c0_1 Node0x17b9280_1 Node0x17b9340_1 Node0x17b9490_1 Node0x17b95e0_1 Node0x17b9720_1 Node0x17b9850_1 Node0x17b9980_1 Node0x17b9ad0_1 Node0x17b9c80_1 Node0x17b9d40_1 Node0x17b9ec0_1 Nodebeginfactorial_1 Nodebeginmain Nodeendfactorial_1 Nodeendmain 
+0 1 z
+1 2 z
+2 3 z
+3 4 z
+4 5 z
+5 6 p
+6 7 c
+7 8 k
+7 12 k
+8 9 a
+9 14 e
+29 10 z
+10 11 z
+11 5 o
+12 13 m
+0 13 z
+14 15 z
+15 16 z
+16 17 z
+17 18 z
+18 19 c
+19 20 k
+19 21 k
+20 27 b
+21 22 z
+22 23 z
+23 24 a
+24 25 e
+25 26 z
+26 27 b
+27 28 g
+28 29 m
+14 29 z

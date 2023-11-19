@@ -1,0 +1,72 @@
+1
+6
+S S S
+S A R
+R S B
+S 0
+A a
+B b
+
+59 61
+Node0x1b48560 Node0x1b48cc0 Node0x1b49430 Node0x1b494f0 Node0x1b495b0 Node0x1b496e0 Node0x1b498f0 Node0x1b49a20 Node0x1b49b50 Node0x1b49c10 Node0x1b49cd0 Node0x1b49d90 Node0x1b49ec0 Node0x1b49fb0 Node0x1b4a070 Node0x1b4a0c0 Node0x1b4a270 Node0x1b4a3a0 Node0x1b4a550 Node0x1b4a680 Node0x1b4a9c0 Node0x1b4aa80 Node0x1b4abb0 Node0x1b4ad30 Node0x1b4ae60 Node0x1b4af20 Node0x1b4b050 Node0x1b4b180 Node0x1b4b300 Node0x1b4b3c0 Node0x1b4b480 Node0x1b4b5b0 Node0x1b4b700 Node0x1b4b850 Node0x1b4c4e0 Node0x1b4c5a0 Node0x1b4c6d0 Node0x1b4c820 Node0x1b4ccf0 Node0x1b4cd40 Node0x1b4cef0 Node0x1b4d020 Node0x1b4d1a0 Node0x1b4d2d0 Node0x1b4d400 Node0x1b4d530 Node0x1b4d6b0 Node0x1b4d7e0 Node0x1b4d930 Node0x1b4da60 Node0x1b4db90 Node0x1b4dd10 Node0x1b4de60 Node0x1b4df20 Node0x1b4e050 Node0x1b4e1a0 Node0x1b4e2f0 Nodebeginmain Nodeendmain 
+0 1 z
+1 2 z
+2 3 z
+3 4 z
+4 5 z
+5 6 z
+6 7 z
+7 8 z
+8 9 z
+9 10 z
+10 11 z
+11 12 z
+12 13 p
+13 14 c
+14 15 k
+14 34 k
+15 16 z
+16 17 z
+17 18 n
+18 19 z
+19 20 z
+20 21 z
+21 22 z
+22 23 n
+23 24 z
+24 25 z
+25 26 z
+26 27 z
+27 28 f
+28 29 z
+29 30 z
+30 31 z
+31 32 z
+32 33 z
+33 12 o
+34 35 z
+35 36 z
+36 37 p
+37 38 c
+38 39 k
+38 57 k
+39 40 z
+40 41 z
+41 42 n
+42 43 z
+43 44 z
+44 45 z
+45 46 n
+46 47 z
+47 48 z
+48 49 z
+49 50 z
+50 51 f
+51 52 z
+52 53 z
+53 54 z
+54 55 z
+55 56 z
+56 36 o
+57 58 m
+0 58 z

@@ -1,0 +1,68 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m---------------------------< [0;36miguana:iguana[0;1m >----------------------------[m
+[[1;34mINFO[m] [1mBuilding Iguana 0.0.1-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mexec-maven-plugin:3.1.0:java[m [1m(default-cli)[m @ [36miguana[0;1m ---[m
+[[1;33mWARNING[m] 
+[1;31mjava.lang.RuntimeException[m: [1;31mcom.fasterxml.jackson.databind.exc.InvalidTypeIdException: Missing type id when trying to resolve subtype of [simple type, class org.iguana.grammar.symbol.Nonterminal]: missing type id property 'kind' (for POJO property 'head')
+ at [Source: (String)"{"kind":"Rule","head":{},"body":[{"kind":"Nonterminal","name":"1"},{"kind":"Terminal","name":"z","regex":{"kind":"Seq","symbols":[{"kind":"Char","val":122}]}}]}"; line: 1, column: 24] (through reference chain: org.iguana.grammar.symbol.Rule$Builder["head"])[m
+    [1mat[m org.iguana.grammar.Grammar.load ([1mGrammar.java:365[m)
+    [1mat[m org.iguana.grammar.Grammar.load ([1mGrammar.java:343[m)
+    [1mat[m org.iguana.grammar.Grammar.load ([1mGrammar.java:333[m)
+    [1mat[m benchmark.GraphBenchmark.benchmark ([1mGraphBenchmark.java:54[m)
+    [1mat[m benchmark.GraphBenchmark.main ([1mGraphBenchmark.java:29[m)
+    [1mat[m org.codehaus.mojo.exec.ExecJavaMojo$1.run ([1mExecJavaMojo.java:279[m)
+    [1mat[m java.lang.Thread.run ([1mThread.java:832[m)
+[1mCaused by[m: com.fasterxml.jackson.databind.exc.InvalidTypeIdException: [1;31mMissing type id when trying to resolve subtype of [simple type, class org.iguana.grammar.symbol.Nonterminal]: missing type id property 'kind' (for POJO property 'head')
+ at [Source: (String)"{"kind":"Rule","head":{},"body":[{"kind":"Nonterminal","name":"1"},{"kind":"Terminal","name":"z","regex":{"kind":"Seq","symbols":[{"kind":"Char","val":122}]}}]}"; line: 1, column: 24] (through reference chain: org.iguana.grammar.symbol.Rule$Builder["head"])[m
+    [1mat[m com.fasterxml.jackson.databind.exc.InvalidTypeIdException.from ([1mInvalidTypeIdException.java:43[m)
+    [1mat[m com.fasterxml.jackson.databind.DeserializationContext.missingTypeIdException ([1mDeserializationContext.java:1645[m)
+    [1mat[m com.fasterxml.jackson.databind.DeserializationContext.handleMissingTypeId ([1mDeserializationContext.java:1218[m)
+    [1mat[m com.fasterxml.jackson.databind.jsontype.impl.TypeDeserializerBase._handleMissingTypeId ([1mTypeDeserializerBase.java:300[m)
+    [1mat[m com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeDeserializer._deserializeTypedUsingDefaultImpl ([1mAsPropertyTypeDeserializer.java:164[m)
+    [1mat[m com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeDeserializer.deserializeTypedFromObject ([1mAsPropertyTypeDeserializer.java:105[m)
+    [1mat[m com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeWithType ([1mBeanDeserializerBase.java:1178[m)
+    [1mat[m com.fasterxml.jackson.databind.deser.impl.FieldProperty.deserializeSetAndReturn ([1mFieldProperty.java:174[m)
+    [1mat[m com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer.deserializeFromObject ([1mBuilderBasedDeserializer.java:314[m)
+    [1mat[m com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer.deserialize ([1mBuilderBasedDeserializer.java:216[m)
+    [1mat[m com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeDeserializer._deserializeTypedForId ([1mAsPropertyTypeDeserializer.java:130[m)
+    [1mat[m com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeDeserializer.deserializeTypedFromObject ([1mAsPropertyTypeDeserializer.java:97[m)
+    [1mat[m com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeWithType ([1mBeanDeserializerBase.java:1178[m)
+    [1mat[m com.fasterxml.jackson.databind.deser.impl.TypeWrappedDeserializer.deserialize ([1mTypeWrappedDeserializer.java:68[m)
+    [1mat[m com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose ([1mObjectMapper.java:4013[m)
+    [1mat[m com.fasterxml.jackson.databind.ObjectMapper.readValue ([1mObjectMapper.java:3004[m)
+    [1mat[m org.iguana.util.serialization.JsonSerializer$GrammarDeserializer.deserialize ([1mJsonSerializer.java:273[m)
+    [1mat[m org.iguana.util.serialization.JsonSerializer$GrammarDeserializer.deserialize ([1mJsonSerializer.java:257[m)
+    [1mat[m com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeDeserializer._deserializeTypedForId ([1mAsPropertyTypeDeserializer.java:130[m)
+    [1mat[m com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeDeserializer.deserializeTypedFromObject ([1mAsPropertyTypeDeserializer.java:97[m)
+    [1mat[m com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeDeserializer.deserializeTypedFromAny ([1mAsPropertyTypeDeserializer.java:193[m)
+    [1mat[m com.fasterxml.jackson.databind.JsonDeserializer.deserializeWithType ([1mJsonDeserializer.java:154[m)
+    [1mat[m com.fasterxml.jackson.databind.deser.impl.TypeWrappedDeserializer.deserialize ([1mTypeWrappedDeserializer.java:68[m)
+    [1mat[m com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose ([1mObjectMapper.java:4013[m)
+    [1mat[m com.fasterxml.jackson.databind.ObjectMapper.readValue ([1mObjectMapper.java:3070[m)
+    [1mat[m org.iguana.util.serialization.JsonSerializer.deserialize ([1mJsonSerializer.java:157[m)
+    [1mat[m org.iguana.grammar.Grammar.load ([1mGrammar.java:363[m)
+    [1mat[m org.iguana.grammar.Grammar.load ([1mGrammar.java:343[m)
+    [1mat[m org.iguana.grammar.Grammar.load ([1mGrammar.java:333[m)
+    [1mat[m benchmark.GraphBenchmark.benchmark ([1mGraphBenchmark.java:54[m)
+    [1mat[m benchmark.GraphBenchmark.main ([1mGraphBenchmark.java:29[m)
+    [1mat[m org.codehaus.mojo.exec.ExecJavaMojo$1.run ([1mExecJavaMojo.java:279[m)
+    [1mat[m java.lang.Thread.run ([1mThread.java:832[m)
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;31mBUILD FAILURE[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  3.441 s
+[[1;34mINFO[m] Finished at: 2023-11-19T20:19:23+03:00
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;31mERROR[m] Failed to execute goal [32morg.codehaus.mojo:exec-maven-plugin:3.1.0:java[m [1m(default-cli)[m on project [36miguana[m: [1;31mAn exception occurred while executing the Java class. com.fasterxml.jackson.databind.exc.InvalidTypeIdException: Missing type id when trying to resolve subtype of [simple type, class org.iguana.grammar.symbol.Nonterminal]: missing type id property 'kind' (for POJO property 'head')[m
+[[1;31mERROR[m] [1;31m at [Source: (String)"{"kind":"Rule","head":{},"body":[{"kind":"Nonterminal","name":"1"},{"kind":"Terminal","name":"z","regex":{"kind":"Seq","symbols":[{"kind":"Char","val":122}]}}]}"; line: 1, column: 24] (through reference chain: org.iguana.grammar.symbol.Rule$Builder["head"])[m
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+

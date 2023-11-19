@@ -1,0 +1,98 @@
+1
+26
+S A O
+A o
+O P B
+P p
+B C D
+C 0
+C C C
+C z
+C c
+C d
+C h
+C i
+C j
+C l
+C k
+C b
+C g
+C f
+C n
+C q
+C a
+C e
+D E F
+E e
+F C G
+G o
+
+59 67
+Node0x1933250_1 Node0x1933250_2 Node0x19333f0_1 Node0x19333f0_2 Node0x19333f0_3 Node0x1933550 Node0x1933c70 Node0x19343e0 Node0x19344a0 Node0x1934560 Node0x1934690 Node0x1934830 Node0x19349c0 Node0x1934a80 Node0x1934b40 Node0x1934c70 Node0x1934d60 Node0x1934e20 Node0x1934e70 Node0x1934fb0 Node0x1935070 Node0x19351a0 Node0x1935320 Node0x19353e0 Node0x1935430 Node0x1935640 Node0x1935700 Node0x1935830 Node0x1935980 Node0x1935ce0 Node0x19368e0 Node0x1936a10 Node0x1936b60 Node0x1936cb0 Node0x1936f30 Node0x1936ff0 Node0x1937120 Node0x1937270 Node0x1937330 Node0x1937380 Node0x1937590 Node0x1937720 Node0x19377e0 Node0x1937910 Node0x1937a60 Node0x1937bb0 Node0x1937e90 Nodebeginf1_1 Nodebeginf1_2 Nodebeginf2_1 Nodebeginf2_2 Nodebeginf2_3 Nodebeginmain Nodeendf1_1 Nodeendf1_2 Nodeendf2_1 Nodeendf2_2 Nodeendf2_3 Nodeendmain 
+0 1 z
+1 2 z
+2 3 z
+3 4 z
+4 5 z
+5 6 z
+6 7 a
+7 44 e
+46 8 z
+8 9 z
+9 10 z
+10 11 p
+11 12 c
+12 13 k
+12 29 k
+13 14 z
+14 15 z
+15 16 p
+16 17 c
+17 18 k
+17 24 k
+18 50 e
+52 19 z
+19 20 z
+20 21 z
+21 22 z
+22 23 z
+23 15 o
+24 25 z
+25 26 z
+26 27 z
+27 28 z
+28 10 o
+29 30 z
+30 31 z
+31 32 p
+32 33 c
+33 34 k
+33 41 k
+34 47 e
+49 35 a
+35 53 e
+55 36 z
+36 37 z
+37 38 z
+38 39 z
+39 40 z
+40 31 o
+41 56 e
+58 42 z
+42 43 m
+0 43 z
+44 45 z
+45 46 m
+44 46 z
+47 48 z
+48 49 m
+47 49 z
+50 51 z
+51 52 m
+50 52 z
+53 54 z
+54 55 m
+53 55 z
+56 57 z
+57 58 m
+56 58 z

@@ -1,0 +1,116 @@
+1
+47
+S A B
+A t
+B C D
+C z
+C C C
+C 0
+D E F
+E p
+F G H
+G c
+H I J
+I k
+J C K
+K L M
+L r
+M N O
+N u
+O P Q
+P f
+Q C R
+R T U
+T o
+U W X
+W p
+X Y Z
+Y c
+Z AA BB
+AA k
+BB C CC
+CC DD EE
+DD t
+EE C FF
+FF GG HH
+GG p
+HH II JJ
+II c
+JJ KK LL
+KK k
+LL C MM
+MM NN OO
+NN r
+OO PP QQ
+PP u
+QQ RR SS
+RR f
+SS C TT
+TT o
+
+62 64
+Node0x110f660 Node0x110fdc0 Node0x110ff20 Node0x110ffe0 Node0x11100a0 Node0x11101d0 Node0x11103e0 Node0x1110510 Node0x11105d0 Node0x11106c0 Node0x11107b0 Node0x11109d0 Node0x1110a90 Node0x1110bf0 Node0x1110d80 Node0x1110eb0 Node0x1110f70 Node0x11110c0 Node0x1111180 Node0x11112b0 Node0x1111610 Node0x11116d0 Node0x1111720 Node0x11118d0 Node0x1111a00 Node0x1111b30 Node0x1111c80 Node0x1111db0 Node0x1111ee0 Node0x1112040 Node0x1112190 Node0x1112250 Node0x1112380 Node0x11124d0 Node0x1112620 Node0x11132c0 Node0x11133f0 Node0x1113540 Node0x11136c0 Node0x1113780 Node0x1113cc0 Node0x1113e10 Node0x1113ed0 Node0x1113f20 Node0x11140d0 Node0x1114200 Node0x1114330 Node0x1114480 Node0x11145b0 Node0x11146e0 Node0x1114840 Node0x1114990 Node0x1114a50 Node0x1114b80 Node0x1114cd0 Node0x1114e20 Node0x11150a0 Node0x11151d0 Node0x11154f0 Node0x1115620 Nodebeginmain Nodeendmain 
+0 1 z
+1 2 z
+2 3 z
+3 4 z
+4 5 z
+5 6 z
+6 7 z
+7 8 z
+8 9 z
+9 10 z
+10 11 a
+11 12 e
+12 13 z
+13 14 z
+14 15 t
+15 16 z
+16 17 z
+17 18 z
+18 19 z
+19 20 p
+20 21 c
+21 22 k
+21 35 k
+22 23 z
+23 24 z
+24 25 z
+25 26 z
+26 27 r
+27 28 u
+28 29 f
+29 30 z
+30 31 z
+31 32 z
+32 33 z
+33 34 z
+34 19 o
+35 36 t
+36 37 z
+37 38 z
+38 39 z
+39 40 z
+40 41 p
+41 42 c
+42 43 k
+42 56 k
+43 44 z
+44 45 z
+45 46 z
+46 47 z
+47 48 r
+48 49 u
+49 50 f
+50 51 z
+51 52 z
+52 53 z
+53 54 z
+54 55 z
+55 40 o
+56 57 z
+57 58 a
+58 59 e
+59 60 z
+60 61 m
+0 61 z

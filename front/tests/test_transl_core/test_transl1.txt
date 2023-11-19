@@ -1,0 +1,11 @@
+file1.c grammatics
+file2.c grammatics
+file3.c grammatics
+file4.c grammatics
+file5.c grammatics5
+file6.c grammatics6
+file7.c grammatics7
+file8.c grammatics8
+file9.c grammatics9
+file10.c grammatics10
+file11.c grammatics11

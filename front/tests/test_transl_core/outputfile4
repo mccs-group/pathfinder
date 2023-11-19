@@ -1,0 +1,74 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m---------------------------< [0;36miguana:iguana[0;1m >----------------------------[m
+[[1;34mINFO[m] [1mBuilding Iguana 0.0.1-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mexec-maven-plugin:3.1.0:java[m [1m(default-cli)[m @ [36miguana[0;1m ---[m
+Benchmarking reachability for graph graph
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  2.633 s
+[[1;34mINFO[m] Finished at: 2023-10-05T14:34:08+03:00
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+59
+(14, epsilon, 14)
+(6, epsilon, 6)
+(2, epsilon, 2)
+(10, epsilon, 10)
+(18, epsilon, 18)
+(22, epsilon, 22)
+(26, epsilon, 26)
+(30, epsilon, 30)
+(34, epsilon, 34)
+(38, epsilon, 38)
+(42, epsilon, 42)
+(46, epsilon, 46)
+(50, epsilon, 50)
+(54, epsilon, 54)
+(58, epsilon, 58)
+(15, epsilon, 15)
+(7, epsilon, 7)
+(3, epsilon, 3)
+(11, epsilon, 11)
+(19, epsilon, 19)
+(23, epsilon, 23)
+(27, epsilon, 27)
+(31, epsilon, 31)
+(35, epsilon, 35)
+(39, epsilon, 39)
+(43, epsilon, 43)
+(47, epsilon, 47)
+(51, epsilon, 51)
+(55, epsilon, 55)
+(12, epsilon, 12)
+(0, epsilon, 0)
+(4, epsilon, 4)
+(8, epsilon, 8)
+(16, epsilon, 16)
+(20, epsilon, 20)
+(24, epsilon, 24)
+(28, epsilon, 28)
+(32, epsilon, 32)
+(36, epsilon, 36)
+(40, epsilon, 40)
+(44, epsilon, 44)
+(48, epsilon, 48)
+(52, epsilon, 52)
+(56, epsilon, 56)
+(13, epsilon, 13)
+(1, epsilon, 1)
+(5, epsilon, 5)
+(9, epsilon, 9)
+(17, epsilon, 17)
+(21, epsilon, 21)
+(25, epsilon, 25)
+(29, epsilon, 29)
+(33, epsilon, 33)
+(37, epsilon, 37)
+(41, epsilon, 41)
+(45, epsilon, 45)
+(49, epsilon, 49)
+(53, epsilon, 53)
+(57, epsilon, 57)

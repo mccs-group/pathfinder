@@ -1,0 +1,1 @@
+.markmainfile6.dot input.txt

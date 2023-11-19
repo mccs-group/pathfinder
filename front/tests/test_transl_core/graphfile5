@@ -1,0 +1,66 @@
+1
+18
+S A B
+A d
+B C D
+C 0
+C C C
+C z
+D E F
+E a
+F G H
+G e
+H C I
+I J K
+J b
+K L M
+L i
+M N O
+N k
+O C J
+
+41 43
+Node0x1b22210_1 Node0x1b22950_1 Node0x1b22a10_1 Node0x1b22ad0_1 Node0x1b22c00_1 Node0x1b22d30_1 Node0x1b22df0_1 Node0x1b22eb0_1 Node0x1b22fe0_1 Node0x1b230d0_1 Node0x1b23190_1 Node0x1b231e0_1 Node0x1b23390_1 Node0x1b234c0_1 Node0x1b23620_1 Node0x1b23750_1 Node0x1b23810_1 Node0x1b23940_1 Node0x1b23a70_1 Node0x1b23de0_1 Node0x1b23ea0_1 Node0x1b23f60_1 Node0x1b24090_1 Node0x1b24210_1 Node0x1b24360_1 Node0x1b25100 Node0x1b257f0 Node0x1b25950 Node0x1b25a10 Node0x1b25ad0 Node0x1b25c50 Node0x1b25f60 Node0x1b260c0 Node0x1b26210 Node0x1b26340 Node0x1b26470 Node0x1b26670 NodebegincopyElems64AndAdd1_1 Nodebeginmain NodeendcopyElems64AndAdd1_1 Nodeendmain 
+0 1 z
+1 2 z
+2 3 z
+3 4 z
+4 5 f
+5 6 z
+6 7 d
+7 8 f
+8 9 z
+9 10 z
+10 11 a
+11 14 e
+40 12 z
+12 13 m
+0 13 z
+14 15 z
+15 16 z
+16 17 z
+17 18 z
+18 19 z
+19 20 z
+20 21 z
+21 22 z
+22 23 p
+23 24 c
+24 25 k
+24 39 k
+25 26 z
+26 27 z
+27 28 n
+28 29 z
+29 30 z
+30 31 z
+31 32 z
+32 33 f
+33 34 z
+34 35 z
+35 36 z
+36 37 z
+37 38 z
+38 22 o
+39 40 m
+14 40 z
